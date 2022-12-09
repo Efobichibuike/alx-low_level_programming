@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 /**
- * main: Main function of my project to prints on the standard output prgramming is like building a multilingual puzzle
+ * main: Main function of my project to prints on the standard output
  *
- * Return : return 0 everything
+ * Return : return 0 everytime
  */
 int main(void)
 {
